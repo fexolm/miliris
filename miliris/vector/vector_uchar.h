@@ -1,5 +1,5 @@
-#ifndef __MIL_VECTOR_UCHAR__
-#define __MIL_VECTOR_UCHAR__
+#ifndef __MIL_VECTOR_UCHAR_H__
+#define __MIL_VECTOR_UCHAR_H__
 
 #define __MIL_TYPE uchar
 #include "_vector_generic.h"

@@ -1,5 +1,5 @@
-#ifndef __MIL_VECTOR_LONG__
-#define __MIL_VECTOR_LONG__
+#ifndef __MIL_VECTOR_LONG_H__
+#define __MIL_VECTOR_LONG_H__
 
 #define __MIL_TYPE long
 #include "_vector_generic.h"

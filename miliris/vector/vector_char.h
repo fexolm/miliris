@@ -1,5 +1,5 @@
-#ifndef __MIL_VECTOR_CHAR__
-#define __MIL_VECTOR_CHAR__
+#ifndef __MIL_VECTOR_CHAR_H__
+#define __MIL_VECTOR_CHAR_H__
 
 #define __MIL_TYPE char
 #include "_vector_generic.h"

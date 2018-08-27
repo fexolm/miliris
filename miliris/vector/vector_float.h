@@ -1,5 +1,5 @@
-#ifndef __MIL_VECTOR_FLOAT__
-#define __MIL_VECTOR_FLOAT__
+#ifndef __MIL_VECTOR_FLOAT_H__
+#define __MIL_VECTOR_FLOAT_H__
 
 #define __MIL_TYPE float
 #include "_vector_generic.h"
